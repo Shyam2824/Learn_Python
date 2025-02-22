@@ -1,6 +1,6 @@
 score= int(input("Enter the score : "))
 
-if score>75100:
+if score>100:
     grade="not exist"
 elif score>90:
     grade= "A"
